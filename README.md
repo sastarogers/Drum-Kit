@@ -1,0 +1,1 @@
+A fun, interactive web-based drum kit that lets you play different drum sounds by clicking on the buttons or pressing corresponding keys on your keyboard. Built using HTML, CSS, and JavaScript, this project is great for practicing DOM manipulation and event handling in JavaScript.
